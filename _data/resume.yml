@@ -1,0 +1,22 @@
+# IMPORTANT: Set this to false.
+demo: false
+
+# Theme customization is done on this file instead of _config.yml so that
+# you don't have to restart Jekyll to see changes.
+
+photo: "images/avatar.jpg"
+name: "Lindsey Matysik Johnson"
+# copy: "I'm currently a higher education professional. I have over ten years of experience in sales/customer service and five years of professional office experience. My passions include technology, marketing, reading, videogames, and crafting."
+copy: "I'm currently a higher education professional. I have over ten years of experience in sales/customer service and five years of professional office experience. My passions include technology, marketing, reading, videogames, and crafting."
+
+# Color scheme based on http://www.materialui.co/colors.
+# Possible values:
+# - default
+# - red
+# - pink
+# - brown
+# - blue
+# - purple
+# - teal
+# - green
+color: purple
